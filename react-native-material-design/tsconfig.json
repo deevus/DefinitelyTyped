@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "baseUrl": "../",
+        "module": "commonjs",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "typeRoots": [
+          "../"
+        ],
+        "types": [
+          "react-native",
+          "react"
+        ],
+        "jsx": "react",
+        "noEmit": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}
